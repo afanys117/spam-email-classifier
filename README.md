@@ -2,6 +2,8 @@
 
 Welcome to the Email Spam Classifier project! In this notebook, we aim to build a machine learning model that can effectively distinguish between spam and non-spam (ham) emails. The project involves preprocessing the email text data, exploring different machine learning models, and evaluating their performance.
 
+- **Source:** [Spam Email Classification Dataset on Kaggle](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset)
+
 ## Project Outline
 
 1. **Data Exploration:** Understand the structure of the dataset and explore the distribution of spam and non-spam emails.
